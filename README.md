@@ -14,5 +14,5 @@ AI/ML Student
 
 
 ## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourwebsite.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/samir-guragain-a17a172a5/))
+- [Portfolio]([https://yourwebsite.com](https://samirguragain-portfolio.netlify.app/))
